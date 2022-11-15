@@ -25,7 +25,7 @@ exports.GiveawayMessages = {
     giveawayEnded: '🎉🎉 **GIVEAWAY ENDED** 🎉🎉',
     title: '{this.prize}',
     inviteToParticipate: 'React with 🎉 to participate!',
-    winMessage: 'Congratulations, {winners}! You won **{this.prize}**!\n{this.messageURL}',
+    winMessage: '> **Congratulations, {winners}! You won `{this.prize}`**!\n{this.messageURL}',
     drawing: 'Drawing: {timestamp}',
     dropMessage: 'Be the first to react with 🎉 !',
     embedFooter: '{this.winnerCount} winner(s)',
